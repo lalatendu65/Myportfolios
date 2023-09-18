@@ -1,5 +1,5 @@
 export const routes={
-    home:"/Myportfolios",
+    home:"/Myportfolios/",
     projects:"/Myportfolios/project",
     about:"/Myportfolios/about",
     experience:"/Myportfolios/experience",
