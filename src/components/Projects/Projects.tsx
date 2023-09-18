@@ -18,7 +18,7 @@ function Projects() {
               isBlog={false}
               title="CRUD Application"
               description="Here i created Usermanagement Application using Reactjs, Nodejs and MongoDb"
-              ghLink="#gitlink"
+              ghLink="https://github.com/lalatendu65/ReactCurd"
               demoLink="https://lalatendu65.github.io/ReactCurd/"
             />
             
@@ -29,7 +29,7 @@ function Projects() {
               isBlog={false}
               title="Dynamic Weather-app"
               description="I created a dynamic weather application .where you can know your weather condition like temperature, wind flow .Etc"
-              ghLink="https://lalatendu-portfolio.netlify.app/project/0"
+              ghLink="https://github.com/lalatendu65/Dynamic-Weather-app"
               demoLink="#demo link"
             />
             
