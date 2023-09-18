@@ -19,7 +19,7 @@ function Projects() {
               title="CRUD Application"
               description="Here i created Usermanagement Application using Reactjs, Nodejs and MongoDb"
               ghLink="#gitlink"
-              demoLink="#demo link"
+              demoLink="https://lalatendu65.github.io/ReactCurd/"
             />
             
           </Col>
