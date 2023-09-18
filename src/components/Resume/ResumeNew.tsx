@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { Container, Row } from "react-bootstrap";
 import Button from "react-bootstrap/Button";
-import pdfDocument from "./Resume.pdf";
+import pdfDocument from "./LalatenduPany_Resume.pdf";
 import { AiOutlineDownload } from "react-icons/ai";
 import { Document, Page, pdfjs } from "react-pdf";
 import "react-pdf/dist/esm/Page/AnnotationLayer.css";
@@ -34,17 +34,7 @@ function ResumeNew() {
             <Page pageNumber={2} scale={width > 900 ? 1.7 : 0.6} />
           </Document>
         </Row>
-         <Row className="resume" style={{ overflow: "hidden", height: "1520px" }}>
-          <Document file={pdfDocument} className="d-flex justify-content-center">
-            <Page pageNumber={3} scale={width > 900 ? 1.7 : 0.6} />
-          </Document>
-        </Row>
-         <Row className="resume" style={{ overflow: "hidden", height: "1520px" }}>
-          <Document file={pdfDocument} className="d-flex justify-content-center">
-            <Page pageNumber={4} scale={width > 900 ? 1.7 : 0.6} />
-          </Document>
-        </Row>
-
+        
         <Row className="mt-3" style={{ justifyContent: "center", position: "relative" }}>
           <Button variant="primary" href={pdfDocument} target="_blank" style={{ maxWidth: "250px" }}>
             <AiOutlineDownload />
