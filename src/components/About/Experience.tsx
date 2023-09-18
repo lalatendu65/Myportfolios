@@ -45,7 +45,7 @@ function Experience() {
           </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date="11 April 2022 - 29 December 2020"
+            date="11 April 2022 - 29 December 2022"
             iconStyle={{ background: "#e9d35b", color: "#fff" }}
             icon={<WorkIcon />}
           >
@@ -66,6 +66,17 @@ function Experience() {
               In 6 Months i leraned on DSA(Python),frontend(Html,css,React js) And
               Backend(Javascript,Nodejs,Mongodb,Postman)
             </p>
+          </VerticalTimelineElement>
+          <VerticalTimelineElement
+            className="vertical-timeline-element--work"
+            date="11 April 2023 Present"
+            iconStyle={{ background: "#e9d35b", color: "#fff" }}
+            icon={<WorkIcon />}
+          >
+            <h3 className="vertical-timeline-element-title">Junior Backend Developer - Auctionsoftware</h3>
+            <h4 className="vertical-timeline-element-subtitle">Chennai ,India</h4>
+            <p>Experienced Node.js developer adept at building high-performance, secure web applications with RESTful APIs, using HTML, CSS, and jQuery for user-friendly interfaces. Proficient in MySQL databases and cross-functional collaboration. Currently working on the 'ECX'  an auction-based software allowing users to bid on a wide range of products. 
+Access the project through this link:https://ecxstag.moblearn.net/</p>
           </VerticalTimelineElement>
         </VerticalTimeline>
       </div>
