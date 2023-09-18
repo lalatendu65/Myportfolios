@@ -26,7 +26,7 @@ function NavBar() {
   return (
     <Navbar expanded={expand} fixed="top" expand="md" className={navColour ? "sticky" : "navbar"}>
       <Container>
-        <Navbar.Brand href="/MyPortfolio" className="d-flex">
+        <Navbar.Brand href="/Myportfolios" className="d-flex">
           <img src={logo} style={{ objectFit: "contain" }} className="img-fluid logo" alt="brand" />
         </Navbar.Brand>
         <Navbar.Toggle
@@ -42,31 +42,31 @@ function NavBar() {
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="ms-auto" defaultActiveKey="#home">
             <Nav.Item>
-              <Nav.Link as={Link} to="/MyPortfolio" onClick={() => updateExpanded(false)}>
+              <Nav.Link as={Link} to="/Myportfolios" onClick={() => updateExpanded(false)}>
                 <AiOutlineHome style={{ marginBottom: "2px" }} /> Home
               </Nav.Link>
             </Nav.Item>
 
             <Nav.Item>
-              <Nav.Link as={Link} to="/MyPortfolio/about" onClick={() => updateExpanded(false)}>
+              <Nav.Link as={Link} to="/Myportfolios/about" onClick={() => updateExpanded(false)}>
                 <AiOutlineUser style={{ marginBottom: "2px" }} /> About
               </Nav.Link>
             </Nav.Item>
 
             <Nav.Item>
-              <Nav.Link as={Link} to="/MyPortfolio/project" onClick={() => updateExpanded(false)}>
+              <Nav.Link as={Link} to="/Myportfolios/project" onClick={() => updateExpanded(false)}>
                 <AiOutlineFundProjectionScreen style={{ marginBottom: "2px" }} /> Projects
               </Nav.Link>
             </Nav.Item>
 
             <Nav.Item>
-              <Nav.Link as={Link} to="/MyPortfolio/resume" onClick={() => updateExpanded(false)}>
+              <Nav.Link as={Link} to="/Myportfolios/resume" onClick={() => updateExpanded(false)}>
                 <CgFileDocument style={{ marginBottom: "2px" }} /> Resume
               </Nav.Link>
             </Nav.Item>
 
             <Nav.Item>
-              <Nav.Link as={Link} to="/MyPortfolio/experience" onClick={() => updateExpanded(false)}>
+              <Nav.Link as={Link} to="/Myportfolios/experience" onClick={() => updateExpanded(false)}>
                 <ImBlog style={{ marginBottom: "2px" }} /> Experience
               </Nav.Link>
             </Nav.Item>
