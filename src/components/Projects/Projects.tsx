@@ -23,9 +23,7 @@ function Projects() {
             />
             
           </Col>
-        </Row>
-          <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
-          <Col md={4} className="project-card">
+           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={chatify}
               isBlog={false}
@@ -36,9 +34,7 @@ function Projects() {
             />
             
           </Col>
-        </Row>
-            <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
-          <Col md={4} className="project-card">
+            <Col md={4} className="project-card">
             <ProjectCard
               imgPath={chatify}
               isBlog={false}
@@ -47,7 +43,6 @@ function Projects() {
               ghLink="https://github.com/lalatendu65/User-login-singup-API"
               demoLink="#demo link"
             />
-            
           </Col>
         </Row>
       </Container>
