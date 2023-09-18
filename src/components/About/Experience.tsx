@@ -76,7 +76,7 @@ function Experience() {
             <h3 className="vertical-timeline-element-title">Junior Backend Developer - Auctionsoftware</h3>
             <h4 className="vertical-timeline-element-subtitle">Chennai ,India</h4>
             <p>Experienced Node.js developer adept at building high-performance, secure web applications with RESTful APIs, using HTML, CSS, and jQuery for user-friendly interfaces. Proficient in MySQL databases and cross-functional collaboration. Currently working on the 'ECX'  an auction-based software allowing users to bid on a wide range of products. 
-Access the project through this link:https://ecxstag.moblearn.net/</p>
+            Access the project through this link:https://ecxstag.moblearn.net/</p>
           </VerticalTimelineElement>
         </VerticalTimeline>
       </div>
