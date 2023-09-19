@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/Myportfolios/static/css/main.a096c7f1.css",
-    "main.js": "/Myportfolios/static/js/main.a3200de4.js",
+    "main.js": "/Myportfolios/static/js/main.9ff5340d.js",
     "static/js/787.128fc6e9.chunk.js": "/Myportfolios/static/js/787.128fc6e9.chunk.js",
-    "static/media/LalatenduPany_Resume.pdf": "/Myportfolios/static/media/LalatenduPany_Resume.418f583914afc808b974.pdf",
+    "static/media/LalatenduPany_Resume.pdf": "/Myportfolios/static/media/LalatenduPany_Resume.836480d123e37392973c.pdf",
     "static/media/home-main.svg": "/Myportfolios/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
     "static/media/about.png": "/Myportfolios/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/FB_IMG_1590262998033.jpg": "/Myportfolios/static/media/FB_IMG_1590262998033.90bd1c7cc5a890b35a5c.jpg",
@@ -14,11 +14,11 @@
     "static/media/pre.svg": "/Myportfolios/static/media/pre.066bb68cb3be9115aa82.svg",
     "index.html": "/Myportfolios/index.html",
     "main.a096c7f1.css.map": "/Myportfolios/static/css/main.a096c7f1.css.map",
-    "main.a3200de4.js.map": "/Myportfolios/static/js/main.a3200de4.js.map",
+    "main.9ff5340d.js.map": "/Myportfolios/static/js/main.9ff5340d.js.map",
     "787.128fc6e9.chunk.js.map": "/Myportfolios/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a096c7f1.css",
-    "static/js/main.a3200de4.js"
+    "static/js/main.9ff5340d.js"
   ]
 }
