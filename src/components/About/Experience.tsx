@@ -25,7 +25,7 @@ function Experience() {
             iconStyle={{ background: "#3e497a", color: "#fff" }}
             icon={<SchoolIcon />}
           >
-            <h3 className="vertical-timeline-element-title">Excelsior+2 sceiece college , Jajpur Road, Odisha</h3>
+            <h3 className="vertical-timeline-element-title">Excelsior+2 Science college , Jajpur Road, Odisha</h3>
             <p> Senior Secondary School </p>
           </VerticalTimelineElement>
 
@@ -49,9 +49,11 @@ function Experience() {
             iconStyle={{ background: "#e9d35b", color: "#fff" }}
             icon={<WorkIcon />}
           >
-            <h3 className="vertical-timeline-element-title">Junior Backend Developer - Publicis Sapient</h3>
+            <h3 className="vertical-timeline-element-title">Junior Software Engineer - Publicis Sapient</h3>
             <h4 className="vertical-timeline-element-subtitle">Bengaluru ,India</h4>
-            <p>Developed the backend infrastructure for 3 projects.</p>
+            <p>Experienced Performance Analyst skilled in analyzing test results, diagnosing performance issues, and collaborating with developers for solutions</p>
+            <p>Troubleshoot performance issues, analyze bottlenecks, and make recommendations to improve the solution's performance.</p>
+            <p>Working on a live project Tesco, a UK-based e-commerce platform</p>
           </VerticalTimelineElement>
 
           <VerticalTimelineElement
@@ -75,8 +77,18 @@ function Experience() {
           >
             <h3 className="vertical-timeline-element-title">Junior Backend Developer - Auctionsoftware</h3>
             <h4 className="vertical-timeline-element-subtitle">Chennai ,India</h4>
-            <p>Experienced Node.js developer adept at building high-performance, secure web applications with RESTful APIs, using HTML, CSS, and jQuery for user-friendly interfaces. Proficient in MySQL databases and cross-functional collaboration. Currently working on the 'ECX'  an auction-based software allowing users to bid on a wide range of products. 
-            Access the project through this link:https://ecxstag.moblearn.net/</p>
+            <p>Developed and maintained web applications using Node.js and Express.js to ensure high-performance, secure, and scalable software solutions.</p>
+            <p>Collaborated with the team to design, implement, and maintain MySQL databases, including schema design, data modeling, and query optimization, to support application functionality.</p>
+            <p>Designed and implemented RESTful APIs to facilitate seamless communication between the front-end and back-end systems.
+Implemented authentication and authorization mechanisms to ensure secure access to sensitive data and features.</p> 
+
+          <p>Diagnosed and resolved complex technical issues, contributing to the application's stability and performance improvement.
+Stayed up-to-date with industry trends and best practices to continuously enhance technical skills and contribute to the team's growth.</p>
+
+        <p>Currently working on 'ECX,' an auction-based software allowing users to bid on a wide range of products.</p>
+      <p>You can visit this website using <a href="https://ecxstag.moblearn.net" target="_blank" rel="noreferrer">ECX</a></p>
+
+
           </VerticalTimelineElement>
         </VerticalTimeline>
       </div>
