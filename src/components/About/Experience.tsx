@@ -86,7 +86,7 @@ Implemented authentication and authorization mechanisms to ensure secure access 
 Stayed up-to-date with industry trends and best practices to continuously enhance technical skills and contribute to the team's growth.</p>
 
         <p>Currently working on 'ECX,' an auction-based software allowing users to bid on a wide range of products.</p>
-      <p>You can visit this website using <a href="https://ecxstag.moblearn.net" target="_blank" rel="noreferrer">ECX</a></p>
+      <p>You can visit this website using "https://ecxstag.moblearn.net"</p>
 
 
           </VerticalTimelineElement>
