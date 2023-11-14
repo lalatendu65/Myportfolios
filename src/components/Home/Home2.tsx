@@ -55,7 +55,7 @@ function Home2() {
             <h1>FIND ME ON</h1>
             <p>
               Feel free to{" "}
-              <Link to="/Myportfolios/contact_me" className="purple">
+              <Link to="/contact_me" className="purple">
                 connect{" "}
               </Link>
               with me
