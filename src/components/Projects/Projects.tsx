@@ -16,6 +16,7 @@ function Projects() {
             <ProjectCard
               imgPath={chatify}
               isBlog={false}
+              btn={false}
               title="CRUD Application"
               description="Here i created Usermanagement Application using Reactjs, Nodejs and MongoDb"
               ghLink="https://github.com/lalatendu65/ReactCurd"
@@ -26,7 +27,8 @@ function Projects() {
            <Col md={4} className="project-card">
             <ProjectCard
               imgPath={chatify}
-              isBlog={false}
+              isBlog={true}
+              btn={true}
               title="Dynamic Weather-app"
               description="I created a dynamic weather application .where you can know your weather condition like temperature, wind flow .Etc"
               ghLink="https://github.com/lalatendu65/Dynamic-Weather-app"
@@ -38,6 +40,7 @@ function Projects() {
             <ProjectCard
               imgPath={chatify}
               isBlog={false}
+              btn={true}
               title="SignUp/Login Api"
               description="Here i created  Signup and Login up using Nodejs and mongodb"
               ghLink="https://github.com/lalatendu65/User-login-singup-API"
